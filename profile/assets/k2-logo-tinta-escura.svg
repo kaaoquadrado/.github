@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36 34 364 350" role="img" aria-label="K²">
+  <g fill="#14161C">
+    <!-- serifa de pincel no topo -->
+    <path d="M88 100 Q138 64 206 56 L200 72 Q148 80 98 108 Z"/>
+    <!-- haste -->
+    <path d="M150 70 L200 62 Q186 160 164 316 L108 330 Q136 200 150 70 Z"/>
+    <!-- laço à esquerda da base -->
+    <path d="M112 330 Q62 344 54 304 Q50 264 96 234 Q72 272 78 298 Q86 324 132 316 Z"/>
+    <!-- braço superior + gancho -->
+    <path d="M154 204 L178 226 Q246 146 318 64 L296 62 Q226 136 154 204 Z"/>
+    <path d="M300 60 Q320 46 346 52 Q324 58 314 72 Z"/>
+    <!-- espora -->
+    <path d="M214 204 Q262 178 318 172 Q266 188 226 216 Z"/>
+    <!-- perna -->
+    <path d="M168 210 L206 192 Q252 282 352 332 Q302 334 262 338 Q222 272 168 210 Z"/>
+    <!-- swoosh -->
+    <path d="M70 372 Q210 320 372 334 Q220 336 80 382 Z"/>
+  </g>
+  <!-- expoente ² -->
+  <path d="M318 82 C322 56 366 54 362 82 C359 102 332 112 312 134 L360 128" fill="none" stroke="#FF5A36" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M356 122 Q378 116 396 104 Q382 124 356 136 Z" fill="#FF5A36"/>
+</svg>
